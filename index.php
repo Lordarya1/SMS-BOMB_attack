@@ -25,7 +25,7 @@
     <label for="phone">شماره تلفن(با صفر)</label>
     <input id="phone" name="phone" placeholder="09XXXXXXXXX" type="text">
     <button onclick="sending();scrollToBottom()" name="submit">ارسال</button>
-    <a href="https://github.com/amirmalek0" target="_blank"><img alt="AmirMalek-Github" class="git"
+    <a href="https://github.com/Lordarya1" target="_blank"><img alt="Lordarya-Github" class="git"
                                                                  src="assets/img/github.png"></a>
     <label for="logText">لاگ ارسال</label>
     <textarea id="logText" rows="7" cols="30" readonly></textarea>
