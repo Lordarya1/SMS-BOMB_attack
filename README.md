@@ -1,8 +1,7 @@
 # PHP SMS Bomber Script 💣
-سورس اس ام اس بمبر به زبان PHP با بیش از 30 وب سرویس
-# نحوه کارکرد اسکریپت
-سورس اسکریپت را روی هاست (یا روی لوکال) آپلود کنید و سپس فایل `index.php` را اجرا کنید.
-شماره مورد نظر را وارد کنید و سپس منتظر ارسال پیامک ها باشید. 😶💣
-# تصویر اسکریپت
+to run you have to copy all files on a folder and copy folder on htdocs by xampp then active xampp and search localhost/(folder name that you coped to htdocs)    or rin index.php by php runner 
+for stop deactive the xampp or your internet connections
+please install req.txt's packages by (pip install -r req.txt) in general command 
+
 ![SMS_Bomber_Screenshot](screenshot.png)
 
